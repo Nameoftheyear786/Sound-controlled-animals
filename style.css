@@ -1,0 +1,40 @@
+.header_div
+  {
+background: #1b949d;
+color: white; 
+  }
+
+.header_div p{
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 3px;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+.copy_right_footer {
+position: fixed;
+color: #81a3c0;
+ bottom: 0;
+width: 100%;
+font-size: 24px;
+background-color: #283263;
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px rgb(119, 141, 155);
+}
+
+body
+{
+  font-family: 'Akaya Telivigala', cursive;
+  background: #aae7de;
+}
+
+
+.main_div button{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 18px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+      }
+    
